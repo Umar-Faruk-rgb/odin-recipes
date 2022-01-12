@@ -1,0 +1,18 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    background-color: rgba(216, 32, 19, 0.884);
+}
+
+img {
+    height: auto;
+    width: 615px;
+}
+
+.sub {
+    background-color: rgb(143, 137, 137);
+}
+
+.ingredients {
+    font-style: italic;
+}
